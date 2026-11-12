@@ -1,0 +1,6 @@
+# Owners of the Romp. Replace the placeholders, then remove the leading "#".
+# Human leads approve every pull request. The guild agent may be added as a reviewer.
+#
+# *            @<human-lead-github-handle>
+# /skills/     @<human-lead-github-handle>
+# /agents/     @<human-lead-github-handle>
